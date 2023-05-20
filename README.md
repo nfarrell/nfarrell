@@ -3,6 +3,9 @@
 ## Neville Farrell
 
 ![Azure DevOps Certified](https://img.shields.io/badge/Azure%20DevOps-Certified-blue?style=for-the-badge&logo=microsoft-azure)
+![Umbraco Certified](https://imgur.com/your-umbraco-badge.jpg)
+![PowerApps Certified](https://imgur.com/your-powerapps-badge.jpg)
+![Microsoft Teams Certified](https://imgur.com/your-teams-badge.jpg)
 
 My name is Neville Farrell, a 30-year-old software engineer from Dublin, Ireland. I am a certified Azure DevOps Engineer currently working as part of the Cloud & Engineering team at Deloitte Ireland.
 
