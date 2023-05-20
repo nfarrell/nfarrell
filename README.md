@@ -26,6 +26,6 @@ I hold a B.Sc in Software Development from the Institute of Technology, Sligo (C
 
 ## 🌍 Where to find me 
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nevfarrell/) or send me an email at nev.farrell@gmail.com(mailto:nev.farrell@gmail.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nevfarrell/) or send me an email at [nev.farrell@gmail.com](mailto:nev.farrell@gmail.com).
 
 Thanks for stopping by!
