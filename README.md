@@ -22,7 +22,7 @@ I am currently working at Deloitte Ireland, where I'm part of the Cloud & Engine
 
 ## 🎓 Certifications
 
-I possess a B.Sc in Software Development from Institute of Technology, Sligo (Class of 2014) and am proud to be a certified Azure DevOps Engineer, Umbraco certified professional and certified Scrum Master. These certifications have allowed me to demonstrate my ability to design and implement DevOps processes and practices, and has been a vital part of my career growth. 
+I hold a B.Sc in Software Development from the Institute of Technology, Sligo (Class of 2014). I am a certified Azure DevOps Engineer, a Umbraco Certified Professional, and a Certified Scrum Master. These certifications have allowed me to showcase my capabilities in designing and implementing DevOps processes and practices. They have played a crucial role in my career growth.
 
 ## 🌍 Where to find me 
 
